@@ -2,7 +2,7 @@ module.exports = {
 	// for repo: danamag/stremio-addons-list
 	"repository": "stremio-addons-list",
 	"author": "danamag",
-	"netlify-domain": "stremio-addons-list.netlify.app",
+	"netlify-domain": "stremio-addons.viren070.me",
 	"page-title": "Stremio Community Addons List",
 	// images are located in ./resources/
 	"meta-favicon": "stremio_community_logo.png",
