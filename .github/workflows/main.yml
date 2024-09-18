@@ -6,6 +6,7 @@ on:
   schedule:
     # Run at 0815 daily
     - cron: '15 8 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
